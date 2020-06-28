@@ -67,7 +67,7 @@ class _ListFormState extends State<ListForm> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-          title: Text('knvowvhohvowhvoishoivpahvphvo;hoaphvhvhvpahvofh')),
+          title: Text('Tasks')),
       body: Column(
         children: <Widget>[
           Row(

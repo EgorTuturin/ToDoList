@@ -19,6 +19,7 @@ environment:
 dependencies:
   equatable: 0.5.1
   flutter_bloc: ^0.16.0
+  shared_preferences: 0.5.7
   flutter:
     sdk: flutter
 
